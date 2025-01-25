@@ -6,3 +6,5 @@ I have decided to, for the sake of structure, follow the [Neetcode](https://neet
 
 Some problems will have multiple solutions; for instance, Contains Duplicates could have two solutions; one Python-based solution, and one C++ solution. The thought process remains the same for either-or.
 
+Note: This is a long-term side hobby! 
+
